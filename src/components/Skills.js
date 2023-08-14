@@ -12,9 +12,9 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
-            ipsa delectus eum quo voluptas aspernatur accusantium distinctio
-            possimus est.
+            These are all skills/technologies that I find myself adept in and can make a difference with in a workplace immediately. I have 2+ years of experience 
+            in all of the listed skills, as well as experience in other skills such as C to a lesser extent, feel free to ask if I have used any other languages/technologies
+            and to what extent!
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">

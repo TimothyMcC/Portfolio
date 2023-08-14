@@ -28,17 +28,17 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+      "Working with Tim has been an absolute pleasure. Their exceptional work ethic and unwavering dedication to our customers have truly set them apart. As a Customer Service Manager, I've had the privilege of witnessing firsthand how Tim approaches challenges with an incredible blend of tenacity and problem-solving prowess",
+    image: "https://blog.publix.com/publix/files/2022/03/Publix-brandmark-copy.jpg",
+    name: "Denise Megar",
+    company: "Publix Supermarkets",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "Placeholder Reference",
     image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+    name: "John Doe",
+    company: "Example Company",
   },
 ];
 
