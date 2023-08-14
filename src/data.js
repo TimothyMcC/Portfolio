@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "React",
     description:
       "One of my first ever projects, the site you're on right now! Created in React using a combination of JavaScript and HTML/CSS, this portfolio should showcase all of my skills/accomplishments.",
-    image: "./project-1.gif",
+    image: "./Portfolio.gif",
     link: "https://reactbootcamp.com",
   },
   {
@@ -45,8 +45,8 @@ export const testimonials = [
 export const skills = [
   "JavaScript",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Java",
+  "Python",
+  "C++",
+  "HTML/CSS",
 ];

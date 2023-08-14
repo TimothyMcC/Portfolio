@@ -10,7 +10,7 @@ export default function About() {
               <br className="hidden lg:inline-block" />I have a passion for learning all things technology.
             </h1>
             <p className="mb-8 leading-relaxed">
-              Sample text, not really sure what is supposed to go here.
+              Browse through this website to learn a little more about me and what I do.
             </p>
             <div className="flex justify-center">
               <a
@@ -29,7 +29,7 @@ export default function About() {
             <img
               className="object-cover object-center rounded"
               alt="hero"
-              src="./coding.svg"
+              src="C:\Users\tmkgw\Desktop\my-portfolio\public\IMG_1576.png"
             />
           </div>
         </div>
