@@ -28,7 +28,7 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Working with Tim has been an absolute pleasure. Their exceptional work ethic and unwavering dedication to our customers have truly set them apart. As a Customer Service Manager, I've had the privilege of witnessing firsthand how Tim approaches challenges with an incredible blend of tenacity and problem-solving prowess",
+      "Working with Tim has been an absolute pleasure. Their exceptional work ethic and unwavering dedication to our customers have truly set them apart. As a Customer Service Manager, I've had the privilege of witnessing firsthand how Tim approaches challenges with an incredible blend of tenacity and problem-solving prowess.",
     image: "https://blog.publix.com/publix/files/2022/03/Publix-brandmark-copy.jpg",
     name: "Denise Megar",
     company: "Publix Supermarkets",
