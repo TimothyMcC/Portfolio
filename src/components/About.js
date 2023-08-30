@@ -29,7 +29,7 @@ export default function About() {
             <img
               className="object-cover object-center rounded"
               alt="hero"
-              src="C:\Users\tmkgw\Desktop\my-portfolio\public\IMG_1575.png"
+              src="./IMG_1575.png"
             />
           </div>
         </div>
