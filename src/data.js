@@ -5,14 +5,14 @@ export const projects = [
     description:
       "One of my first ever projects, the site you're on right now! Created in React using a combination of JavaScript and HTML/CSS, this portfolio should showcase all of my skills/accomplishments.",
     image: "./Portfolio.gif",
-    link: "https://reactbootcamp.com",
+    link: "timrmccportfolio.netlify.app",
   },
   {
-    title: "Placeholder Project 1",
+    title: "NBA Simplistics",
     subtitle: "React and Python",
     description:
-      "My goal is to have three projects showcased on this site/for my resume, this spot should be filled soon!",
-    image: "./project-2.gif",
+      "UNDER CONSTRUCTION. NBA Statistics made simple! See how your favorite players or teams stack up against each other using a sleek modern design. UNDER CONSTRUCTION.",
+    image: "./NBALogo.png",
     link: "https://reactbootcamp.com",
   },
   {
@@ -35,10 +35,10 @@ export const testimonials = [
   },
   {
     quote:
-      "Placeholder Reference",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "John Doe",
-    company: "Example Company",
+      "During my time as Club President at GDSC FIU I was impressed by Tim's willingness to learn as well as his aptitude in problem-solving, he'll become a strong addition to any company.",
+    image: "https://news.northropgrumman.com/media/sites/295/images/social-image.jpeg",
+    name: "Thomas Hanna",
+    company: "Northrop Grumman",
   },
 ];
 
